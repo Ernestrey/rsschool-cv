@@ -56,4 +56,4 @@ Link: [https://github.com/Ernestrey/rsschool-cv](https://github.com/Ernestrey/rs
 
 #### Language
 
-English language - A1
+English language - A2
